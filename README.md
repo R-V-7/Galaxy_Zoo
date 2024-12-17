@@ -1,4 +1,4 @@
-Here’s a concise and accessible README description for your project:
+
 
 ---
 
